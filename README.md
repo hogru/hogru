@@ -15,13 +15,14 @@ I am a project manager and AI master student based in Vienna, Austria.
 #### Expertise
 
 <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Python" width="100"/>
-<img src ="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png", alt="PyTorch" width="100"/>
+<img src ="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png", alt="PyTorch" width="200"/>
 
 <br>
 <br>
 
 ![Stephan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hogru&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hogru&layout=compact&theme=transparent)](https://github.com/hogru/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hogru)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 <img align="left" alt="react" src="(https://img.shields.io/badge/Python-3-blue)" />
