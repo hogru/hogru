@@ -6,10 +6,13 @@ I am a project manager and AI master student based in Vienna, Austria.
 - 🌱 Learning Hugging Face in the process
 <br>
 ## Connect with me
+
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/stephanholzgruber)
 <br>
 <br>
+
 ## Expertise
+
 ![https://www.python.org/static/community_logos/python-logo-master-v3-TM.png]
 
 <br>
